@@ -4,3 +4,9 @@ source 'https://rubygems.org'
 gemspec
 
 gem 'active_model_serializers', '~> 0.10.0'
+
+group :development do
+  gem 'spring'
+  gem 'bullet'
+  gem 'rubocop'
+end
