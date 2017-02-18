@@ -1,6 +1,6 @@
 # Rails Generate Serializer
 
-Generate serializer
+Should generate serializer
 
 ## Installation
 
